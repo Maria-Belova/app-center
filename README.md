@@ -4,7 +4,7 @@ This is a console application that will help you run a build and get data about 
 
 **How to use the project:**
 1. Clone this repository on your local machine
-2. To use the project you should have a Visual Studio 2019
+2. To use the project you should have a Visual Studio 2019 and above
 3. Go to App.config file and enter the following fields:
 ```
 <configuration>
